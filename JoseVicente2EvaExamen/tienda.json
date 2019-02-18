@@ -1,0 +1,91 @@
+{
+  "categorias": [
+    {
+      "id": "c01",
+      "nombre": "Portatiles",
+      "activa": "false"
+    },
+    {
+      "id": "c02",
+      "nombre": "Discos Duros",
+      "activa": "false"
+    },
+    {
+      "id": "c03",
+      "nombre": "Sobremesas",
+      "activa": "true"
+    }
+  ],
+  "articulos": [
+    {
+      "id": "a01",
+      "nombre": "Portatil12",
+      "descripcion": "Lenovo i3",
+      "precio": "15002323",
+      "idCat": "c01"
+    },
+    {
+      "id": "a02",
+      "nombre": "Portatil24",
+      "descripcion": "Asus i5",
+      "precio": "5",
+      "idCat": "c01"
+    },
+    {
+      "id": "a03",
+      "nombre": "Portatil3",
+      "descripcion": "Toshiba i7",
+      "precio": "1700",
+      "idCat": "c01"
+    },
+    {
+      "id": "a04",
+      "nombre": "Portatil4",
+      "descripcion": "HP convertible",
+      "precio": "500",
+      "idCat": "c01"
+    },
+    {
+      "id": "a05",
+      "nombre": "Sobremesa1",
+      "descripcion": "HP i71",
+      "precio": "500054545",
+      "idCat": "c03"
+    },
+    {
+      "id": "a06",
+      "nombre": "Sobremesa2",
+      "descripcion": "HP i5556",
+      "precio": "6000",
+      "idCat": "c03"
+    },
+    {
+      "id": "a07",
+      "nombre": "Sobremesa3",
+      "descripcion": "Toshiba i7",
+      "precio": "700",
+      "idCat": "c03"
+    },
+    {
+      "id": "a08",
+      "nombre": "Disco1",
+      "descripcion": "Western Digital32",
+      "precio": "349",
+      "idCat": "c02"
+    },
+    {
+      "id": "a09",
+      "nombre": "Disco2",
+      "descripcion": "Seagate 5Tb",
+      "precio": "174",
+      "idCat": "c02"
+    },
+    {
+      "id": "a10",
+      "nombre": "Disco3",
+      "descripcion": "Samsumg USB 4.0",
+      "precio": "99",
+      "idCat": "c02"
+    }
+  ]
+}
